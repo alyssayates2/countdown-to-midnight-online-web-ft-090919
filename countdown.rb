@@ -1,3 +1,19 @@
+def countdown
+end 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # def countdown(number)
 #   while number > 0
 #    sleep 1
